@@ -1,6 +1,6 @@
 # Sample NodeJS application for Azure Pipelines docs
 
-For more information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
+For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
 |---------|--------------|
